@@ -15,7 +15,7 @@ int main(){
 	{
 		printf("\n child process started pid = %d\n\n", getpid());
 		
-		execl("/home/trezen/Desktop/Linux/Linux Internals/assignment/test6","./test6", "test file", "file 6", 0) ;
+		execl("/home/sanket/Desktop/Linux/Linux Internals/assignment/test6","./test6", "test file", "file 6", 0) ;
 	
 		printf("\n");	
 	}

@@ -11,7 +11,7 @@ int main(){
 	printf("program 1\n\n");
 	printf("ececl command started\n");
 	
-	execl("/home/trezen/Desktop/Linux/Linux Internals/assignment/test4", "./test4", "test", "file", "program2", 0) ;
+	execl("/home/sanket/Desktop/Linux/Linux Internals/assignment/test4", "./test4", "test", "file", "program2", 0) ;
 	printf("\n");
 	
 	

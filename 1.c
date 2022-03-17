@@ -5,7 +5,7 @@
 
 int main(){
 	
-	execl("/home/trezen/Desktop/Linux/Linux Internals/assignment/test1","./test1", "test file", "discriptor", 0) ;
+	execl("/home/sanket/Desktop/Linux/Linux Internals/assignment/test1","./test1", "test file", "discriptor", 0) ;
 	
 	printf("\n");
 	
